@@ -12,7 +12,7 @@ Para poder utilizar este código, asegúrate de tener instalado Visual Studio Co
 
 Copia el código 
 
-[Agenda Semanal](https:github.com/YedrielLaureano/Agenda-Semanal
+[Agenda Semanal.cpp](https://github.com/YedrielLaureano/Agenda-Semanal/blob/main/Agenda%20Semanal.cpp)
 
 Crea un nuevo proyecto en el programa que tengas y selecciona el lenguaje C++ y pega el código. Luego, corre el código y al finalizarlo, podrás ver y abrir el archivo de texto con tus eventos ingresados. 
 
