@@ -2,12 +2,16 @@
 
 Agenda semanal simple, usando C++
 
+## Description
+
+Agenda Semanal es un programa que te ayuda a organizar tu semana y crea un archivo tipo texto para poder guardar y visualizar tus eventos o tareas pendientes durante la semana. 
+
 ## How to use
 
 ## Version History 
 
   - Versión [1.00] - 4/26/2025
-    - Versión inicial. Código base en c++.
+    - Versión inicial. Código base en C++.
 
 ## Authors
 
