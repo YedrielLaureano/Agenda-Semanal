@@ -8,6 +8,21 @@ Agenda Semanal es un programa que te ayuda a organizar tu semana y crea un archi
 
 ## How to use
 
+Para poder utilizar este código, asegúrate de tener instalado Visual Studio Code (VS Code) o Visual Studio Community. 
+
+Copia el código 
+
+[Agenda Semanal](https:github.com/YedrielLaureano/Agenda-Semanal
+
+Crea un nuevo proyecto en el programa que tengas y selecciona el lenguaje C++ y pega el código. Luego, corre el código y al finalizarlo, podrás ver y abrir el archivo de texto con tus eventos ingresados. 
+
+Cuando corras el código, podrás: 
+
+1.	Entrar tareas (eventos) 
+2.	Eliminar tareas (eventos)
+3.	Imprimir todas las tareas (eventos)
+4.	Salir del programa (eventos)
+
 ## Version History 
 
   - Versión [1.00] - 4/26/2025
