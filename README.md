@@ -36,9 +36,9 @@ Creado por:
 
 ## License
 
-MIT License
+[MIT License](https://github.com/YedrielLaureano/Agenda-Semanal/blob/main/LICENSE)
 
-Copyright (c) 2025 Yedriel Laureano 
+Copyright (c) 2025 [Yedriel Laureano](https://github.com/YedrielLaureano 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
