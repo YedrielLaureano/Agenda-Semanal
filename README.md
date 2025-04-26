@@ -1,6 +1,6 @@
 # Agenda-Semanal
 
-Agenda Semanal 
+Agenda semanal simple, usando C++
 
 ## How to use
 
